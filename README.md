@@ -11,7 +11,7 @@ Como capitão do Corpo de Bombeiros Militar de SC, atuo assessorando o comando d
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiago-sarraff-54aa0251/)
-* [Medium](https://www.medium.com](https://medium.com/@thiagosarraff)
+* [Medium](https://medium.com/@thiagosarraff)
 
 
 ## Projetos:
