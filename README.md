@@ -1,20 +1,17 @@
 <p align="center">
-  <img src="capa.png" >
+  <img src="capa.jpg">
 </p>
 
 # Thiago Sarraff
 <sub>*Cientista de Dados* em formação, atuando no Corpo de Bombeiros Militar de Santa Catarina</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Como capitão do Corpo de Bombeiros Militar de SC, atuo assessorando o comando da instituição a perseguir seus objetivos institucionais. Inicialmente, como aprendiz de Data Analyst e Business Intelligence Developer, desenvolvi dashboards para auxiliar tanto na gestão operacional como estratégica. A partir da experiência adquirida, desenvolvi o interesse em me aprofundar no tema e introduzir ferramentas como Machine Learning para a tomada de decisão estatégica da corporação.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
-
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Business Intelligence, Business Analytics.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/thiago-sarraff-54aa0251/)
+* [Medium](https://www.medium.com](https://medium.com/@thiagosarraff)
 
 
 ## Projetos:
