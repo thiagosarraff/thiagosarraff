@@ -10,7 +10,7 @@ Como capitão do Corpo de Bombeiros Militar de SC, atuo assessorando o comando d
 **Background in:** Python, Machine Learning, Business Intelligence, Business Analytics.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/thiago-sarraff-54aa0251/)
+* [LinkedIn](https://www.linkedin.com/in/thiagosarraff/)
 * [Medium](https://medium.com/@thiagosarraff)
 
 
