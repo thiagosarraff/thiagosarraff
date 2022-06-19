@@ -24,6 +24,6 @@ Como capitão do Corpo de Bombeiros Militar de SC, atuo assessorando o comando d
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Análise dos dados Airbnb em Dallas-Tx:** https://bit.ly/3O84ql8
+* **Análise dos dados Airbnb em Dallas-TX:** https://bit.ly/3O84ql8
 
 ---
